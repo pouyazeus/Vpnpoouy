@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">NexusVPN</string>
+    <string name="vpn_service_title">NexusVPN WireGuard</string>
+    <string name="vpn_channel_name">VPN Connection Status</string>
+    <string name="vpn_channel_desc">Notifications showing current VPN tunnel status and active session</string>
+    <string name="status_connected">Connected</string>
+    <string name="status_connecting">Connecting…</string>
+    <string name="status_disconnecting">Disconnecting…</string>
+    <string name="status_disconnected">Disconnected</string>
+    <string name="tap_to_connect">Tap to Protect Connection</string>
+    <string name="tap_to_disconnect">Tap to Disconnect</string>
+    <string name="rewarded_ad_title">Earn Extra VPN Time</string>
+    <string name="rewarded_ad_desc">Watch a short video sponsor to get +30 minutes of high-speed browsing.</string>
+</resources>

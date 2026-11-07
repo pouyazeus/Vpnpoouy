@@ -1,0 +1,6 @@
+{
+  "name": "NexusVPN",
+  "description": "High-performance WireGuard Android VPN client with AdMob monetization, real-time telemetry, and comprehensive admin panel architecture.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
